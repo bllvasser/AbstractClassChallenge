@@ -299,6 +299,65 @@ public class SearchTree implements NodeList {
     }
 }
 
+/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=65016:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Bilaal/IdeaProjects/AbstractChallenge/out/production/AbstractChallenge com.company.Main
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Deleting item 3
+Deleting item 5
+0
+1
+2
+4
+6
+7
+8
+9
+Deleting item 0
+Deleting item 4
+Deleting item 2
+1
+6
+7
+8
+9
+Deleting item 9
+1
+6
+7
+8
+Deleting item 8
+1
+6
+7
+Deleting item 6
+1
+7
+1
+7
+Deleting item 7
+1
+Deleting item 1
+
+Process finished with exit code 0
+
 
 
 
